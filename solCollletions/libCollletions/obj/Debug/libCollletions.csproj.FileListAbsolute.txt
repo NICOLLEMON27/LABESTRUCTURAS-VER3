@@ -1,0 +1,12 @@
+C:\Users\IngSis\Desktop\solCollletions\libCollletions\obj\Debug\libCollletions.csproj.AssemblyReference.cache
+C:\Users\IngSis\Desktop\solCollletions\libCollletions\obj\Debug\libCollletions.csproj.CoreCompileInputs.cache
+C:\Users\IngSis\Desktop\solCollletions\libCollletions\bin\Debug\libCollletions.dll
+C:\Users\IngSis\Desktop\solCollletions\libCollletions\bin\Debug\libCollletions.pdb
+C:\Users\IngSis\Desktop\solCollletions\libCollletions\obj\Debug\libCollletions.dll
+C:\Users\IngSis\Desktop\solCollletions\libCollletions\obj\Debug\libCollletions.pdb
+C:\Users\IngSis\Downloads\LABESTRUCTURAS-LibColletions-VER2-main\LABESTRUCTURAS-LibColletions-VER2-main\solCollletions\solCollletions\libCollletions\obj\Debug\libCollletions.csproj.AssemblyReference.cache
+C:\Users\IngSis\Downloads\LABESTRUCTURAS-LibColletions-VER2-main\LABESTRUCTURAS-LibColletions-VER2-main\solCollletions\solCollletions\libCollletions\obj\Debug\libCollletions.csproj.CoreCompileInputs.cache
+C:\Users\IngSis\Downloads\LABESTRUCTURAS-LibColletions-VER2-main\LABESTRUCTURAS-LibColletions-VER2-main\solCollletions\solCollletions\libCollletions\obj\Debug\libCollletions.dll
+C:\Users\IngSis\Downloads\LABESTRUCTURAS-LibColletions-VER2-main\LABESTRUCTURAS-LibColletions-VER2-main\solCollletions\solCollletions\libCollletions\obj\Debug\libCollletions.pdb
+C:\Users\IngSis\Downloads\LABESTRUCTURAS-LibColletions-VER2-main\LABESTRUCTURAS-LibColletions-VER2-main\solCollletions\solCollletions\libCollletions\bin\Debug\libCollletions.dll
+C:\Users\IngSis\Downloads\LABESTRUCTURAS-LibColletions-VER2-main\LABESTRUCTURAS-LibColletions-VER2-main\solCollletions\solCollletions\libCollletions\bin\Debug\libCollletions.pdb
